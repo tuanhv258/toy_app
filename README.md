@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# toy_app
+A toy demo  app for Rails Tutorial
+>>>>>>> d9de1bb2446cfd3edada84d8a730dd92a832e1b6
